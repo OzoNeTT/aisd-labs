@@ -14,7 +14,7 @@
 
 (Контест будет доступен **31.12.2020**)
 
-### Links
+## Links
 
 - [AES online decryption](https://www.devglan.com/online-tools/aes-encryption-decryption)
 - [VK page](https://vk.com/ozonet_t)

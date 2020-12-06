@@ -14,6 +14,8 @@
 
 Для того, что бы получить заветный ключик перейдите в дирректорию `./key/` и решите небольшую головоломку!
 
+Не забудьте потом конвертнуть из **base64** для получения кода
+
 ## Links
 
 - [AES online decryption](https://www.devglan.com/online-tools/aes-encryption-decryption)
